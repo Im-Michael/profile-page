@@ -43,3 +43,6 @@ html, body{
      border: black;
      font-size: 15px
    }
+   button:hover {
+     background-color: #808080;
+   }
